@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* *{
+    background-color:aliceblue;
+  
+}
+.container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+border: 1px solid gray;
+}
+.logo-img{
+    width:100px;
+    height: auto;
+}
+.nav-items ul{
+    display: flex;
+    margin-right: 20px;
+}
+.nav-items ul li{
+    list-style: none;
+    margin-left: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.nav-items ul li:hover{
+    color:rgb(115, 119, 119);
+}
+.search{
+   font-size: 24px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.res-card{
+    width: 200px;
+    height: auto;
+    border: 1px solid grey;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.res-logo{
+    width: 100%;
+   
+}
+.filter-btn{
+    margin: 10px;
+    border:1px solid grey;
+    text-align: center;
+    border-radius: 2px;
+    background-color: bisque;
+}
+.shimmer-container{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.shimmer-card{
+    width: 200px;
+    height: 300px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+}
+.login-btn{
+    padding: 2px 7px;
+    border: 1px solid grey;
+}
+.filter{
+    display: flex;
+    margin: 20px 0 10px 0;
+}
+.search-box{
+outline: none;
+border:1px solid grey;
+}
+.search-btn{
+    background-color: bisque;
+    border:1px solid grey;
+} */
